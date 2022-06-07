@@ -1,5 +1,6 @@
 HELP.md
 .gradle
+.talismanrc
 build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
@@ -37,4 +38,3 @@ out/
 .vscode/
 
 
-.talismanrc
