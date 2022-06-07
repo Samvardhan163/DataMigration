@@ -1,4 +1,4 @@
 fileignoreconfig:
-- filename: src/main/resources/db/migration/V1.3__AlterNameToFullNameInUsersTable.sql
-  checksum: 61573cf1273a856d49010a1486cede59e459909d5115e2c7365c142913d7bf45
+- filename: src/main/resources/db/migration/V1.4__AddedPhoneNumberColumnInUsers.sql
+  checksum: 57f4ef0d9621f6108f804c9709a61a2e7b99e2bebf9e759140867da0984e91f6
 version: ""
